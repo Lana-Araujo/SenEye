@@ -1588,7 +1588,7 @@
  
  .home-scrolldown a:hover,
  .home-scrolldown a:focus {
-   color: #4B999E !important;
+   color: #000000 !important;
  }
  
  html[data-useragent*='MSIE 10.0'] .home-scrolldown,
