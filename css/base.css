@@ -334,6 +334,20 @@ b {
   line-height: inherit;
 }
 
+#logoMarca {
+  display: flex;
+  justify-content: center;
+  height: 70px;
+  width: 70px;
+}
+
+#logoFooter {
+  display: flex;
+  justify-content:left;
+  height: 120px;
+  width: 120px;
+}
+
 small {
   font-size: 60%;
   line-height: inherit;
