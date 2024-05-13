@@ -529,7 +529,7 @@
    right: 100%;
    height: 100%;
    width: 100%;
-   background: #39b54a;
+   background: #0A777E;
  }
  
  .pace.pace-inactive {
@@ -2594,7 +2594,7 @@
  }
 
  .footer-main {
-  margin-left:  350px; ; /* Isso centraliza a div horizontalmente */
+  margin-left:  235px; ; /* Isso centraliza a div horizontalmente */
   max-width: 1200px; /* Defina a largura máxima da div para evitar que ela se estenda indefinidamente */
 }
 
@@ -2766,7 +2766,9 @@
  .footer-bottom .copyright span:last-child::after {
    display: none;
  }
- 
+ .col-three md-1-3 tab-full footer-info{
+  margin-right: 30px;
+ }
  
  /* ------------------------------------------------------------------- 
   * go to top
@@ -2807,6 +2809,9 @@
  #go-top a:hover,
  #go-top a:focus {
    color: #FFFFFF;
+ }
+ [class*="col-"] {
+  margin-right: 100px;
  }
  
  
